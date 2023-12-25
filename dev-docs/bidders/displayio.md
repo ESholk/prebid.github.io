@@ -18,7 +18,7 @@ sidebarType: 1
 
 Before configuring the display.io adapter you must reach out your account manager from display.io team  (or send a request to <contact@display.io>) for approval and setup steps.
 
-### Bid Params
+### Prebid.JS Bid Params
 
 {: .table .table-bordered .table-striped }
 
